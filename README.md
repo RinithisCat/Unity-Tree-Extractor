@@ -3,6 +3,7 @@ This is intended to get all objects that are painted as trees in the Unity Terra
 
 In this repository you will have access to the Tool itself. It comes with 3 scripts and a Prefab.
 To use it you will need to drag and drop the prefab into your scene hierarchy. So you can assign the Terrain Data object you want to extract from, increase the number of prototype elements you want and add them in the same order they are added in the terrain "Paint Trees" tab. This only works with the Tree tab and does not work with the "Detail Painter"
+![image](https://github.com/user-attachments/assets/3a2250ad-5367-43b4-8a41-1cd6e1eb66ab)
 
 ![image](https://github.com/user-attachments/assets/c4fa41cb-034f-4db2-8b46-38ddcd5f8fa3)
 ![image](https://github.com/user-attachments/assets/183a5d7c-08e1-4cb7-92a6-f0eb39762215)
